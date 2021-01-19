@@ -30,6 +30,10 @@ export const TeamCard = styled.div `
     width: 200px;
     height: 150px;
 
+    @media screen and (max-width: 450px) {
+        width: 150px;
+    }
+
     justify-content: center;
     align-items: center;
     padding: 20px;

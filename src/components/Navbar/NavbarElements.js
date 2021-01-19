@@ -42,6 +42,7 @@ export const NavbarUnOrderedList = styled.ul `
 `
 
 export const NavbarListItem = styled.li `
+    padding: 10px;
 
 `
 
